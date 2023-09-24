@@ -13,13 +13,13 @@
         },
         {
             "id": "special_product_2",
-            "name": "IPhone 12",
+            "name": "IPhone 13",
             "price": "45,000",
             "priceAfterDiscount": "39,999",
-            "imageName": "Iphone11",
+            "imageName": "IPhone 13",
             "offers": "50%",
             "ratings": "3",
-            "source": "IPhone 11",
+            "source": "iphone 13",
             "isNew": "FALSE"
         },
         {
@@ -36,23 +36,44 @@
         {
             "id": "product4",
             "name": "Samsang Galaxy M14",
-            "price": "",
+            
             "priceAfterDiscount": "15,999",
             "imageName": "Samsang Galaxy M14",
-            "offers": "58%",
-            "ratings": "5",
+            
+            "ratings": "4",
             "source": "galaxy m14",
             "isNew": "TRUE"
         },
         {
             "id": "product5",
-            "name": "Dummy Product 5",
-            "price": "2000.0",
-            "priceAfterDiscount": "1100.0",
-            "imageName": "cat 5",
+            "name": "Oppo A17",
+            "price": "9,999",
+            "priceAfterDiscount": "7,599",
+            "imageName": "Oppo A17",
             "offers": "45%",
+            "ratings": "2",
+            "source": "oppo a17",
+            "isNew": "FALSE"
+        },
+        {
+            "id": "product5",
+            "name": "Poco F5",
+            "price": "22,899",
+            "priceAfterDiscount": "21,299",
+            "imageName": "Poco F5",
+            "offers": "45%",
+            "ratings": "4",
+            "source": "poco f5",
+            "isNew": "FALSE"
+        },
+        {
+            "id": "product5",
+            "name": "Realme Narzo 60x",
+            "price": "32,699",
+            "priceAfterDiscount": "28,499",
+            "imageName": "Realme Narzo 60x",
             "ratings": "5",
-            "source": "product5",
+            "source": "realme narzo",
             "isNew": "FALSE"
         }
     ]

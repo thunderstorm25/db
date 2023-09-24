@@ -1,0 +1,59 @@
+{
+    "products": [
+        {
+            "id": "special_product_1",
+            "name": "OnePlus 11r",
+            "price": "45,999",
+            "priceAfterDiscount": "42,999",
+            "imageName": "oneplus 11r",
+            "offers": "20%",
+            "ratings": "4",
+            "source": "oneplus 11r",
+            "isNew": "TRUE"
+        },
+        {
+            "id": "special_product_2",
+            "name": "IPhone 12",
+            "price": "45,000",
+            "priceAfterDiscount": "39,999",
+            "imageName": "Iphone11",
+            "offers": "50%",
+            "ratings": "3",
+            "source": "IPhone 11",
+            "isNew": "FALSE"
+        },
+        {
+            "id": "special_product_3",
+            "name": "Samsang Galaxy S23",
+            "price": "85,999",
+            "priceAfterDiscount": "83,599",
+            "imageName": "galaxy s23",
+            "offers": "67%",
+            "ratings": "5",
+            "source": "galaxy s23",
+            "isNew": "TRUE"
+        },
+        {
+            "id": "product4",
+            "name": "Samsang Galaxy M14",
+            "price": "",
+            "priceAfterDiscount": "15,999",
+            "imageName": "Samsang Galaxy M14",
+            "offers": "58%",
+            "ratings": "5",
+            "source": "galaxy m14",
+            "isNew": "TRUE"
+        },
+        {
+            "id": "product5",
+            "name": "Dummy Product 5",
+            "price": "2000.0",
+            "priceAfterDiscount": "1100.0",
+            "imageName": "cat 5",
+            "offers": "45%",
+            "ratings": "5",
+            "source": "product5",
+            "isNew": "FALSE"
+        }
+    ]
+}

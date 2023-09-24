@@ -36,10 +36,10 @@
         {
             "id": "product4",
             "name": "Samsang Galaxy M14",
-            
+            "price": "17,999",
             "priceAfterDiscount": "15,999",
             "imageName": "Samsang Galaxy M14",
-            
+            "offers": "58%",
             "ratings": "4",
             "source": "galaxy m14",
             "isNew": "TRUE"
@@ -62,16 +62,17 @@
             "priceAfterDiscount": "21,299",
             "imageName": "Poco F5",
             "offers": "45%",
-            "ratings": "4",
+            "ratings": "3",
             "source": "poco f5",
             "isNew": "FALSE"
         },
         {
             "id": "product5",
             "name": "Realme Narzo 60x",
-            "price": "32,699",
-            "priceAfterDiscount": "28,499",
+            "price": "32,599",
+            "priceAfterDiscount": "28,999",
             "imageName": "Realme Narzo 60x",
+            "offers": "45%",
             "ratings": "5",
             "source": "realme narzo",
             "isNew": "FALSE"
